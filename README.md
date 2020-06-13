@@ -6,4 +6,4 @@
 Ја добив групата на код 2
 
 Control Flow Graph
-![](ControlFlowGraph.png)
+![ControlFlowGraph](https://user-images.githubusercontent.com/63239108/84577821-e9bc1e00-adbf-11ea-88d3-ba2440852e05.png)
